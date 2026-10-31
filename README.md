@@ -1,6 +1,3 @@
-# thichcode_giaithuat_leet_code_java_javascript
-1. Clone this repository at /C (open on VScode) or setup root src java on Intellij idea
-2. install java & jdk ( >= 8 )
 
 ## Nhật ký làm bài:<
 ---
