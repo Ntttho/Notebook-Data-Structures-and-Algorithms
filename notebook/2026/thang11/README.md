@@ -27,6 +27,9 @@
 - anh thật sự thì hong có tính toán với em, hong có nói dối em gần như mọi thứ luôn ớ, chắc chắn là yêu mà, anh đầu tư chớ, đầu tư thời gian tài chính, tài chính hạn hẹp thì ít đầu tư hơn xí, có 10 mà cho em cả 10 thì chắc chắn là anh bóc cức ăn rồi
 - tới một lúc nào đó mà lụy em thì chắc anh cũng sẽ viết về em, nma nếu trong trường hợp tệ có người mới thì anh sẽ tạo cái nhật ký mới hoàn toàn luôn, hong cho họ biết, bởi vì em thật sự đối với anh là người **tuyệt với nhất** rồi ạ
 - yêu em anh sẽ nói với em ***anh yêu em*** hằng ngày, anh yêu em
+
+- ***Cái sích mích đầu tiên*** mẹ với Ngọc có cái sích mích là em trêu em nhuộm màu đỏ, tính mẹ thì tôi hiểu là hong có thích xăm hình, nhuộm màu, giải thích cái này với mẹ dể òm à, nhưng cái khó là mẹ tới lúc bực mình sẽ hay tìm cớ trút giận lắm, để giải quyết dứt điểm là sẽ hong cho mẹ bực lúc gặp em, giải thích cho mẹ thì dể òm, mẹ vui mẹ hong có để tâm, mẹ giận là mẹ trút lên người khác.
+- chắc cái tính cách này ai cũng có thôi, mỗi tôi kiềm hảm nó sâu trong tâm là không để cái mặt xấu của mình bị hiện hình ra ngoài. con người thật sự khó hiểu, nhưng quy chung về thì chỉ là 1 những thật ra biến chất khác đi một ít thoi
 ---
 1101. **plan**
 planning sprint2 cho team OJT, phân task, lập doc
