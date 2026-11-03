@@ -1,5 +1,24 @@
 # Tháng 11 Của Quẫy
-1102. hmmm thật là nhiều suy nghĩ trong đầu về cái quyết định về nghề nghiệp tương lai và cái định nghĩa tình yêu của em
+
+
+1103. 
+    chuẩn hóa của team lead, cách nhau vài chi tiết để thành project manager
+- **Team lead**
+    - trọng tâm chính xác đặt vào con người, chất lượng kỹ thuật, quy trình thực thi nội bộ -> "làm như thế nào để giải quyết các task, tối ưu, đúng kỹ thuật"
+    - đi lên từ senior, tech lead, trực tiếp review code/task của một nhóm chức năng cụ thể (Dev, QA, FR, BE...) và chủ yếu giao tiếp với các thành viên trong nhóm tech lead, PM
+    - Người khác nhìn vào: chất lượng output kỹ thuật, hiệu suất làm việc và sự phát triển của thành viên => đánh giá năng suất **team lead**
+    - vai trò chính: phân chia công việc | gỡ khó kỹ thuật, công nghệ, đưa ra giải pháp | đảm bảo chuẩn mực, codeing convention, review, kiểm soát chất lượng | phát triển con người, team member, coaching 1-on-1 
+- **Project Manager - PM**
+    - là 1 PM thì quan tâm tới: tiến độ | phạm vi | ngân sách | rủi ro của dự án => nhấm chắc thì đánh vào câu hỏi "Khi nào tính năng này release? có vượt ngân sách, thời hạn không?"
+    - Không yêu câu là người code giỏi, cần hiểu tổng quan hệ thống, giỏi quản lý dự án, là người đứng ra quản lý toàn bộ mọi bộ phận từ dev, product, design, sales, client
+    - giao tiếp với khách hàng, ban lảnh đạo, product owner, tl
+    - đánh giá một người PM tốt thông qua dự án bàn giao đúng hạn, đủ tính năng, đúng nội ngân sách
+    - vai trò người này thì khá dể hiểu đó là: lên plan + giám sát thông số timeline roadmap risk | quản lý rủi ro, phạm vi, phát sinhyêu cầu ngoài kết hoạch | cầu nối StakeHolders và tối ưu hóa quy trình, điều phối cuộc họp scrum/agile
+- ***Tiếng anh thực sự quan trọng***
+    - tính ra thì mình có quá nhiều việc bị tập trung quá nhiều đến nỗi mà việc học tiếng anh mình cũng phớt lờ, đối phó, tỏ ra rằng mình oke nhưng thực chất chẳng có động được gì, kỹ năng nghe mình kém thật, nhưng vẫn có thể nắm tốt việc bắt keyword. Kỹ năng đọc hiểu okela rồi nma hong có biết đục lổ, hong có biết chọn đáp án thoại, đoạn văn. **YC: Luyện tập nhiều hơn**
+
+1102. 
+    hmmm thật là nhiều suy nghĩ trong đầu về cái quyết định về nghề nghiệp tương lai và cái định nghĩa tình yêu của em
 - **Quyết định**: theo 2 hướng
 - 1 là theo lối mòn quyết định theo lỗi mòn, học xong rãi cv ứng tuyển các đầu mối công ty cấp và 2 là theo hướng thấy Đạo, làm công việc của hiện tại đến khi hoàn thành con rùa biển web client, sau đó xin vào crm web quản trị cho công ty con rùa biển
 - hài thật, nhưng mà tôi là 1 thằng đàn ông, chắc chắn đưa ra quyết định thì sẽ không bao giờ thây đổi rồi. Cũng cảm phục anh Tuyền, nhiều trò thật, chành xe một tay anh xây nên, có nhà côn đảo, có nhiều nhà nhiều đất đai, nhiều công xưởng, chi nhánh đầu mối.
@@ -21,7 +40,7 @@
 - *"anh hiểu rồi"* nó sẽ là kiểu anh đã nghiệm ra một cái gì đó quên hoặc chưa biết, anh hong bao giờ nói anh biết rồi cả, mọi cái chỉ dừng ở mức độ hiểu biết thăm
 - *"anh nhớ rồi"* thực chất là anh đã nhớ ra những gì em nói nè
 - anh hiểu suy nghĩ của em khi anh nói 2 câu trên là anh nói nhiều anh hong có hành động, thì anh xin lỗi nhiều chớ, hành động nào cũng cần tiền cả em ạ. 
-- *Em bảo anh biết tính toán quản lý tiền bạc mà hong biết tạo quỹ riêng*. Anh biết chớ, nhưng mà anh dư tiền mà để mẹ anh nhịn ăn nhịn uống bán từng tờ vé số, còn anh có tiền vào trong những tình huống đặt biệt đau ốm, thì xin phép anh hong có làm được. 
+- *Em bảo anh biết tính toán quản lý tiền bạc mà hong biết tạo quỹ riêng*. Anh biết chớ, nhưng mà anh dư tiền mà để mẹ anh nhịn ăn nhịn uống bán từng tờ vé số, còn anh có tiền vào trong những tình huống đặt biệt đau ốm, thì xin phép anh hong có làm được. s
 - anh cũng hong muốn nghe em chia sẽ về anh Nam với cả Ngọc Hà, họ yêu nhau mà, mỗi lần em nói cho anh nghe, anh bị đứng hình á vợ ơi, anh bị suy nghĩ nhiều, anh bị suy nghĩ so sánh. cái xong em tạo cho anh một cái áp lực tài chính riêng luôn. Cái vấn đề tài chính là cái vấn đề anh sợ nhất trong bất kỳ mối quan hệ nào, kể cả mẹ con hay anh em của anh ớ. Thậm chí anh còn 3 gói mì tôm sạch tiền anh còn mượn tiền bạn để dành 500k cuối cùng về quê. hmmm nói ra kiểu như mình than hơi nhiều không thôi chắc nói tới cái này thui hen.
 - anh hiểu tính em nè, em sẽ không dọc cái nhật ký này vào ngày hôm nay đâu, bởi vì khi em biết tới cái này lần đầu là anh hiểu sơ tính em ròi, cũng như để tâm tới cái nhật ký này lần cuối tính đến bay giờ thì em hong có để tâm lại lần nào nữa. chắc chắn 99% là em hong có đọc cái nhật ký này vào đúng ngày này ròi
 - anh thật sự thì hong có tính toán với em, hong có nói dối em gần như mọi thứ luôn ớ, chắc chắn là yêu mà, anh đầu tư chớ, đầu tư thời gian tài chính, tài chính hạn hẹp thì ít đầu tư hơn xí, có 10 mà cho em cả 10 thì chắc chắn là anh bóc cức ăn rồi
@@ -31,10 +50,11 @@
 - ***Cái sích mích đầu tiên*** mẹ với Ngọc có cái sích mích là em trêu em nhuộm màu đỏ, tính mẹ thì tôi hiểu là hong có thích xăm hình, nhuộm màu, giải thích cái này với mẹ dể òm à, nhưng cái khó là mẹ tới lúc bực mình sẽ hay tìm cớ trút giận lắm, để giải quyết dứt điểm là sẽ hong cho mẹ bực lúc gặp em, giải thích cho mẹ thì dể òm, mẹ vui mẹ hong có để tâm, mẹ giận là mẹ trút lên người khác.
 - chắc cái tính cách này ai cũng có thôi, mỗi tôi kiềm hảm nó sâu trong tâm là không để cái mặt xấu của mình bị hiện hình ra ngoài. con người thật sự khó hiểu, nhưng quy chung về thì chỉ là 1 những thật ra biến chất khác đi một ít thoi
 ---
-1101. **plan**
-planning sprint2 cho team OJT, phân task, lập doc
-xữ lý cá nhân task backend
-Check task mailsender
+1101. 
+    **plan**
+    planning sprint2 cho team OJT, phân task, lập doc
+    xữ lý cá nhân task backend
+    Check task mailsender
 
 Trello shirotori, started
 
