@@ -5,6 +5,11 @@
     - rồi hai ta sẽ lại bước tiếp, chỉ tiết là không cùng nhau, có lẽ chuyện buồn nhất không phải 2 ta đã mất nhau, mà là 2 ta từng sống như chưa từng có chuyện gì xẫy ra. Rồi một ngày, người vẫn sẽ đi làm, vẫn ghé những quán cafe quen thuộc, vẫn đi qua những con đường từng đặt chân đến, chỉ là từ đấy, những câu chuyền thường ngày sẽ chẳng còn có ai và kể cho nhau nghe, dự định cũng đành gác lại ở 1 đoạn thanh xuân. Sài gòn vẫn rộng lớn như thế, hai ta rồi cũng sẽ gặp thêm những người mới và tiếp tục học cách yêu thương một ai đó lần nữa, chỉ tiết rằng, trong những năm tháng sau này người dồng hành cùng ta sẽ không còn là đối phương nữa
     - luôn trong tâm trạng sợ một thứ gì đó, mà chẳng muốn cho ai biết. Tớ biết căn bệnh, cái vấn đề gặp phải chính xác không phải là mình chưa biết yêu, mình chỉ là một con người yếu đuối, thực sự thì chuyện gì rồi cũng sẽ qua, nhưng dồn lại đó là đống ký ức, những kỹ niệm. Mối tình này mà không thành, lí trí trao hết vào cũng chẳng thể quay trở lại bình thường. Như một người nghiện, tôi yêu em như ma túy, như một kẽ điên, từng sản sinh ra rất nhiều thứ rồi cũng bị rùn bỏ, bỏ rơi
     - hmmmm trong tính huống xấu nhất, tôi sẽ trốn đi một nơi quen thuộc, cái góc học tập, làm việc đó rất nhiều người biết đến nhưng trong tôi thì nơi quen thuộc này chỉ là có một mình mình!
+- I don't know that is wrongtime
+    - ý tôi là bay giờ ấy, thời điểm cạnh tranh công việc, cơ hội, hay bất kỳ cái thứ gì mà làm ảnh hướng đến sự phát triến sự nghiệp của mình. Mọi thứ đang gắt gao, còn bao người giữ lại cho mình được cái nguyên bản. Và liệu chính tôi có còn giữ được điều đó không.
+    - Một thằng nhóc học công nghệ thông tin đến 1.5 năm sau vẫn chưa biết sử dụng công nghệ hiện đại, không biết sài chatGPT mói thứ quăng vào gemini rồi mày mò
+    - nhưng thật tuyệt với, bayh là antigravity, thật sự là AI mạnh thật
+
 
 1103. 
     chuẩn hóa của team lead, cách nhau vài chi tiết để thành project manager
