@@ -1,4 +1,17 @@
 # Tháng 11 Của Quẫy
+1106. 
+    Có người phải hóa quỷ rồi, thứ 6 tuần tới bị pass cực căng
+- thứ nhất là có tin buồn
+    - chính xác là những con người lười nhát trong nhóm 6 ojt hk4 hơi không chịu thực hiện task của mình để tới ngày cuối sprint rồi mới thực hiện thì không còn ý nghĩa gì cả, những gì tồn tại trong họ chỉ là sự xấu xa, sự thua thiệt.
+    - bạn có thể vibe code có thể sài ai thoải mái, tôi vẫn check code của bạn mà, tại sao lại làm mà chỉ nghĩ đến done task mà không nghĩ đến việc mình có hiểu okela với đống code đã vibe không
+    - thật sự mất mặt thật luôn thôi nghĩ phẻ
+- tình yêu của cô ấy
+    - những thông tin cô ấy tôi note về đt ròi, tôi thực sự yêu cô ấy
+    - không làm được thì đừng hứa, đừng nói, nếu đã hứa rồi thì cố làm cho thành
+    - thật sự thì tính ái kỷ của cô ấy, tôi thích lắm á, cô ta nhìn vậy thôi chứ hiểu chiện ghê luôn, bạn biết tôi nghèo, biết tôi ít tiền, biết là đang theo đuổi thật lòng nên cũng nhẹ nhàng với tôi lắm
+    - yêu em
+1105. 
+    Chẳng có gì ngoài sự yên bình tròng tâm
 1104. 
     tình huống xấu nhất
 - chuyện buồn sài gòn: tính tới thời điểm tiêu cực và trường hợp tệ nhất
