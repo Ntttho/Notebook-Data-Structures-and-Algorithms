@@ -4,7 +4,10 @@
 - sprint3 planning
     - thật sự thì xữ lý hầu như toàn bộ các task các bạn nợ trong sprint2 rồi
     - mai báo cáo tiến độ chắc chắn sẽ lòi ra đứa nào làm gì và chưa làm gì làm gì là lộ ra cả lộ ra cả các chú
-    - 
+- có thể nói 1 phần tình cách của tôi
+    - quá hiền, quá ngay thơ, quá tin người
+    - thực tế thì tôi chưa bao giờ giận dỗi bất kỳ ai, và thậm chí tôi còn có suy nghĩ người khác nghĩ xấu về mình. Cái thứ đọc vị người khác đôi khi cũng có lỗi đôi khi cũng có hại lắm, chát ta ơi
+    - tự tin nói đọc vị được hầu hết tất cả mọi người, chỉ qua vài lần gặp gở, nói chuyện, cách cư xữ, cái trò chuyện với người khác của một người nào đó, gần như tôi có thể biết được sơ tính cách, và cái sự thật, cái vỏ bọc của họ rồi. Thậm chí là cả ông thầy giáo kia
 
 1108. 
     đi chơi với em
