@@ -14,7 +14,8 @@
     - chẳng biết nhưng mà bạn muốn thì tôi cũng tập cũng học được thôi hehe
     - nếu bảo tình cảm tiến triển nhanh quá mau chán thì tôi muốn nói với bạn 1 cái là. Tôi mà chán bạn tôi cho bạn chặc ku, cho bạn làm gì tôi bạn làm
     - nói thế chớ dể gì chán bạn được, tôi yêu bạn vậy cơ mà!!!
-
+    - tụi bạn cũng có nhiều đứa khi thường, yêu mà cưới là cái quan niệm cổ lổ sĩ, cái quan điểm của cái thằng méo biết gì về tính yêu
+    - thế là tụi m chưa gặp thấy giáo ruột của tao rồi, người đàn ông top 1 lòng tao, thầy Nguyễn Tiến Chương, nhớ không lầm thầy kể thì vợ thầy là mối tình đấu của thầy <3 yêu thầy
 1107. 
     bị mất nhận thức về thời gian
 - tình hình là nay sinh nhật ông tèo, chẳng hiểu một lý do gì đó mà mình lại nhớ mà tưởng rằng đã miss mất tiêu rồi, lúc 1h sáng thực tế là vẫn đang nói chuyện với bé mà tự nhiên nhìn ngày tháng thấy nay ngày 7 th 11, mà mình không nhìn giờ, ối dồi ôi tưởng quên rồi ai dè đâu mới đầu ngày ông thần ạ. buồn cả buổi trời tới 4h sáng mẹ gửi anh hóa ra là vẫn chưa qua ngày 12 th 7. Tôi ối dồi ôi thật đấy
