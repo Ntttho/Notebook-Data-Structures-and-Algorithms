@@ -1,4 +1,27 @@
 # Tháng 11 Của Quẫy
+1109. 
+    Cảm giác thật tuyệt vời
+- sprint3 planning
+    - thật sự thì xữ lý hầu như toàn bộ các task các bạn nợ trong sprint2 rồi
+    - mai báo cáo tiến độ chắc chắn sẽ lòi ra đứa nào làm gì và chưa làm gì làm gì là lộ ra cả lộ ra cả các chú
+    - 
+
+1108. 
+    đi chơi với em
+- tính cho cùng thì cũng được 1 tháng quen nhau rồi
+    - mối tình đầu tiên, mình cũng mong là mối tính cuối cùng
+    - tình trạng tiến triển cũng nhanh, mindset bạn đó hợp, yêu rồi cưới, tính mình thì hiền khô, khờ khờ thành ra ả cũng không thích lắm
+    - chẳng biết nhưng mà bạn muốn thì tôi cũng tập cũng học được thôi hehe
+    - nếu bảo tình cảm tiến triển nhanh quá mau chán thì tôi muốn nói với bạn 1 cái là. Tôi mà chán bạn tôi cho bạn chặc ku, cho bạn làm gì tôi bạn làm
+    - nói thế chớ dể gì chán bạn được, tôi yêu bạn vậy cơ mà!!!
+
+1107. 
+    bị mất nhận thức về thời gian
+- tình hình là nay sinh nhật ông tèo, chẳng hiểu một lý do gì đó mà mình lại nhớ mà tưởng rằng đã miss mất tiêu rồi, lúc 1h sáng thực tế là vẫn đang nói chuyện với bé mà tự nhiên nhìn ngày tháng thấy nay ngày 7 th 11, mà mình không nhìn giờ, ối dồi ôi tưởng quên rồi ai dè đâu mới đầu ngày ông thần ạ. buồn cả buổi trời tới 4h sáng mẹ gửi anh hóa ra là vẫn chưa qua ngày 12 th 7. Tôi ối dồi ôi thật đấy
+- Tình hình là vẫn giữ được chuổi hen, sắp tới có tiền đi chơi với em bé như ngọc hehe
+- à sắp tới có giải nữa, mình muốn đi tập bóng mà hong có đông cắt nào để đi, trận cũng 40k không à, thật tuyệt vời khi cả 2 tuần rồi mình không đá, tuần tới chắc đá lại để rèn thể lực nè, nma đầu tuần hoặc cuối tuần thôi chứ không có tg, t6 bị pass ojt rồi
+
+
 1106. 
     Có người phải hóa quỷ rồi, thứ 6 tuần tới bị pass cực căng
 - thứ nhất là có tin buồn
