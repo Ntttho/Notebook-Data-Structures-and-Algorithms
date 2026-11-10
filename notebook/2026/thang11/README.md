@@ -1,4 +1,15 @@
 # Tháng 11 Của Quẫy
+1110. 
+    Cực vaiz mía
+- Sao lại thử thách tôi dữ vậy trời chỉ vì muốn cứu 1 đứa nó có duyên, mà mình phải hóa thần gánh team hả
+    - mình ghét thk béo đó cực kì luôn, ghét theo kiểu ghét tính tình, ghét cách giao tiếp, ghét cái cách nó thể hiện, ghét thằng đó biện mình. Còn lại học giốt học giỏi không phải là vấn đề gì lớn.
+    - để xem coi xoay sở sao để mà đánh nó rớt phát được không hay là sửa phần làm bài của nó, bị pass nó hong hiểu rồi nó rớt ta
+    - vậy mà lại hay ha ngol đấy, tới lúc pass thì phần nào nó làm thì mình trả lời hết, rồi chỉ nói là hổ trợ thôi okela mà
+- thực sự xin lỗi cô gái của anh
+    - có nhiêu đâu mà anh cũng hong đủ kinh tế cho em nữa, tệ thật
+    - 
+    
+
 1109. 
     Cảm giác thật tuyệt vời
 - sprint3 planning
