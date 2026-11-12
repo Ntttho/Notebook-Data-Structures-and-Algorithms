@@ -5,6 +5,7 @@
 - có những cái rất là khó nói, gia đình mình nghèo thật, và mình cũng yêu Như Ngọc thật lòng mà để em thiệt thòi quá, anh hong chuyên mảng văn, anh hong hiểu nhiều về em cả. Anh yêu em vậy liệu có tồi quá hong
 - mà nghĩ cũng lạ, em lại là người đầu tiên chấp nhận anh cơ chứ, em dành tình cảm đặt biệt cho anh, em cho anh biết cảm giác yêu, em dạy anh cần làm gì
 - anh muốn nói yêu em
+- khả năng sẽ không gặp nhau hơn 1 tuần luôn ớ, vậy thì gặp mặt bằng 1 buổi đi ăn nhen
 
 61030. Thực tế thì con muốn xin lỗi mẹ rất nhiều
 - dạo gần đây con bước vào một mối quan hệ với 1 cô bạn nữ. Con thật sự dựa dẫm mẹ với oog anh nhiều quá trời nhiều. Thiệt sự rất thương mẹ luôn

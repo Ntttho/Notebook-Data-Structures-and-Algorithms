@@ -1,7 +1,7 @@
 # Dành cho em
 
 ## Món ăn
-- cua (gạch, thịt), snack cua xanh, mì cay, mì ý, bánh mì, kem, bún bò (mẹ nấu)
+- cua (gạch, thịt) to, snack cua xanh, mì cay, mì ý, bánh mì, kem, bún bò (mẹ nấu)
 - ăn sang, ăn vừa vị
 - đồ chua (xoài, cóc, ...), trái cây
 - cafe, sửa tươi, trà lựu, matchalate, tiramisu, bánh kem
