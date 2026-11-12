@@ -1,4 +1,9 @@
 # Tháng 11 Của Quẫy
+1210. 
+    Liệu có ai tin tưởng mình không vậy?
+- Có thể là tôi sai nhưng tôi muốn bạn hiểu tôi phải sai nhiều lần tôi mới hiểu được, tôi mới ngộ nhận ra được. Có lẽ là tôi muốn đậm sau, nhưng khi gặp một người kiểu họ hơn cơ và dạy mình như vậy thì lại không thể không thấy khó chịu được. Cái tôi của mình cao nhưng mình không bao giờ để nó lộ ra bên ngoài.
+- 
+
 1110. 
     Cực vaiz mía
 - Sao lại thử thách tôi dữ vậy trời chỉ vì muốn cứu 1 đứa nó có duyên, mà mình phải hóa thần gánh team hả
@@ -131,3 +136,8 @@ phụ em
 - Những ngày đi với Như Ngọc sẽ không theo timeline này, sẽ là những ngày linh hoạt vì đầu tư thời gian mà!
 ## note: 
 ### Học word - học canva - học excel
+
+## Lịch bé
+- thứ   2   4   5   6 
+- thứ 3 đi diển (đã diển xong)
+- t2 1h, t4 1h, t5 1h, t6 1h
