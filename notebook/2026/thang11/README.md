@@ -1,5 +1,11 @@
 # Tháng 11 Của Quẫy
-1210. 
+1114. 
+    Trắc trở nhiều chớ
+- anh gặp em và mình rất khác nhau, quan điểm khác, văn hóa khác, mức sống, tư duy, kinh nghiệm, trải nghiệm, gần như mọi thứ nhưng nếu anh không cố gắng thay đổi thì chẳng bao giờ có được tình yêu được cả 
+- hiện tại thứ anh quan ngại nhất vẫn là tiền, trải nghiệm thì chắc là anh không nhiều nhưng kình nghiệm thì chưa chắc em nói em hơn anh được
+- thực tế thì anh không muốn show hết mọi thứ về anh cho em nghe hiểu, anh lại thích giấu những thứ không được ai đón nhận, và người đó vô tình lại là em. Anh yêu em
+
+1112. 
     Liệu có ai tin tưởng mình không vậy?
 - Có thể là tôi sai nhưng tôi muốn bạn hiểu tôi phải sai nhiều lần tôi mới hiểu được, tôi mới ngộ nhận ra được. Có lẽ là tôi muốn đậm sau, nhưng khi gặp một người kiểu họ hơn cơ và dạy mình như vậy thì lại không thể không thấy khó chịu được. Cái tôi của mình cao nhưng mình không bao giờ để nó lộ ra bên ngoài.
 - 
