@@ -1,4 +1,13 @@
 # Tháng 11 Của Quẫy
+1116. 
+    người mạnh dạng, biết tìm cơ hội, thì những cơ hội mới sẽ đến với chúng ta
+- nhìn rõ sự thật rằng là kiếm được một người giỏi trong ngành, và muốn nhờ họ làm mentor và có thể hỏi thăm hướng đi, từng bước, từng cái timeline của các bước đó. Thú thật sự thì rất là khó luôn. 
+- Rẽ sang hướng làm mới dev game thì càng khó hơn nhiều, cực nhiều
+
+1115. 
+    có lẽ là kiệt quệ
+- thực sự là kiệt quệ với đống bài vở nhiều như thế này
+
 1114. 
     Trắc trở nhiều chớ
 - anh gặp em và mình rất khác nhau, quan điểm khác, văn hóa khác, mức sống, tư duy, kinh nghiệm, trải nghiệm, gần như mọi thứ nhưng nếu anh không cố gắng thay đổi thì chẳng bao giờ có được tình yêu được cả 
@@ -8,7 +17,6 @@
 1112. 
     Liệu có ai tin tưởng mình không vậy?
 - Có thể là tôi sai nhưng tôi muốn bạn hiểu tôi phải sai nhiều lần tôi mới hiểu được, tôi mới ngộ nhận ra được. Có lẽ là tôi muốn đậm sau, nhưng khi gặp một người kiểu họ hơn cơ và dạy mình như vậy thì lại không thể không thấy khó chịu được. Cái tôi của mình cao nhưng mình không bao giờ để nó lộ ra bên ngoài.
-- 
 
 1110. 
     Cực vaiz mía
@@ -17,9 +25,7 @@
     - để xem coi xoay sở sao để mà đánh nó rớt phát được không hay là sửa phần làm bài của nó, bị pass nó hong hiểu rồi nó rớt ta
     - vậy mà lại hay ha ngol đấy, tới lúc pass thì phần nào nó làm thì mình trả lời hết, rồi chỉ nói là hổ trợ thôi okela mà
 - thực sự xin lỗi cô gái của anh
-    - có nhiêu đâu mà anh cũng hong đủ kinh tế cho em nữa, tệ thật
-    - 
-    
+    - có nhiêu đâu mà anh cũng hong đủ kinh tế cho em nữa, tệ thật    
 
 1109. 
     Cảm giác thật tuyệt vời
