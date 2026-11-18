@@ -1,4 +1,12 @@
 # Tháng 11 Của Quẫy
+1711. 
+    tôi hiểu cô ấy muốn nói gì
+- cái thứ mức sống của những người thành thị thật là cao, và nếu theo mức sống đó thì đi kèm với thứ đó là nhiều yếu tố. lao động, may mắn, kinh tế, hậu thuẩn, môi trường. Nói cách hiểu là Tiền. Và đi mãi với tiền và mức sống đó thì liệu họ có thể tiết kiệm được không. Họ ăn uống, họ có thú vui, họ cần nó. Rồi cuối cùng nếu với giữa 2 con người mức sống cao và mức sống thấp thì và cùng điều kiện, thì ai sẽ là người tiết kiệm được nhiều hơn.
+- muốn gửi tới em cái thứ mà anh muốn nói
+    - anh yêu em
+    - anh dở hơi, anh chưa bao giờ yêu ai
+    - anh sẽ thay đổi mọi mặt, theo ý thích của em
+    - tiền bạc thì từ từ nha để anh kiếm cách
 1116. 
     người mạnh dạng, biết tìm cơ hội, thì những cơ hội mới sẽ đến với chúng ta
 - nhìn rõ sự thật rằng là kiếm được một người giỏi trong ngành, và muốn nhờ họ làm mentor và có thể hỏi thăm hướng đi, từng bước, từng cái timeline của các bước đó. Thú thật sự thì rất là khó luôn. 
