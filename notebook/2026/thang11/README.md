@@ -1,4 +1,11 @@
 # Tháng 11 Của Quẫy
+1811. 
+    tình yêu cái nơi mà 2 hướng đều cần tiến về gần nhau
+- nhưng nếu là tôi thì tôi sẽ, chỉ muốn tôi theo đuổi, bạn chạy tới đâu tôi theo tới đó, mọi người thân tôi không cấm cảng họ còn ủng hộ, thì chẳng có gì có thể cảng được tôi, 
+- bạn muốn tiền á tôi sẽ kiếm thật nhiều tiền
+- bạn muốn có nhà có xe, tôi sẽ mua nó
+- bạn muốn tôi khôn ngoan hơn, tôi sẻ thể hiện cho bạn thấy
+- tôi yêu bạn, bạn càng đưa thêm yêu cầu thì tôi sẽ đưa ra hành động, bayh và trong tương lai
 1711. 
     tôi hiểu cô ấy muốn nói gì
 - cái thứ mức sống của những người thành thị thật là cao, và nếu theo mức sống đó thì đi kèm với thứ đó là nhiều yếu tố. lao động, may mắn, kinh tế, hậu thuẩn, môi trường. Nói cách hiểu là Tiền. Và đi mãi với tiền và mức sống đó thì liệu họ có thể tiết kiệm được không. Họ ăn uống, họ có thú vui, họ cần nó. Rồi cuối cùng nếu với giữa 2 con người mức sống cao và mức sống thấp thì và cùng điều kiện, thì ai sẽ là người tiết kiệm được nhiều hơn.
