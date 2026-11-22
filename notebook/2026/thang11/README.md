@@ -1,4 +1,18 @@
 # Tháng 11 Của Quẫy
+2211. 
+    Cảm nhân được sự phụ thuộc vào AI quá lớn, dẫn đến mình không còn là mình của ngày trước nữa
+- mình không có ai tâm sự, không có bất kỳ ai tâm sự về việc này
+- cứ nghĩ là AI nó có thể giúp mình có lợi thế hơn, có thể giúp mình đãy nhanh tiến độ hơn nhưng không phải như vậy. Mình trì trệ, mình lệ thuộc
+- oke tiếp tục có kế hoạch trong tương lai khắc nghiệt rồi đó chính xác là hành trình lấy lại nguồn gốc con người, bản ngả đấy xã hội của bản thân
+- Sắp tới chính xác là thời điểm thi cuối kỳ 1 năm 3, mình có tính hơn thua cực kì lớn với mọi người xung quanh, nhưng nghĩ lại, những người đó cũng chỉ là những người sành AI hơn mình, và họ cũng chỉ áp dụng AI vào trong việc code và hiểu. Nếu có thể nói cái họ hơn mình thì chính xác là cái hiểu sâu và cái tiếng anh.
+- ***Ủa alo, cái thằng nhóc hồi đó ngoài những đứa đi sau lưng mình một xíu, nó có sợ cái chó gì đâu?***
+- Bản ngả của nó quay trở lại là vì, *không được giáo viên đánh giá cao*, *không được người nó yêu cảm thấy khâm phục*, *không được công nhận bởi bất kì nguồi kiến thức chuyên sâu nào*
+
+- Alright, all right, tôi dở, tôi còn tệ, còn nhiều cái phát triển chán. **Nhưng** tôi đã biết sử dụng công nghệ vào trong học tập khá chi là okela. Tôi ơi đi lên!
+
+2111. 
+    đâu phải ai cũng muốn nghe những lời tự đắt của người khác
+- vấn đề là không thể áp đặt 2 người lên nhau được, người này biết thứ này thì người kia lợi thế thứ khác hơn, lần nào cũng vậy ớ, luôn áp đặt lên người khác những thứ cho là mình oke, ổn, mà hong nhìn nhận lại người kia họ có mặt nào đó hơn mình. Thật tuyệt vời 1 cái là tôi không trách, tôi yêu em nên tôi không phát ra những lời không muốn áp đặt thôi.
 1811. 
     tình yêu cái nơi mà 2 hướng đều cần tiến về gần nhau
 - nhưng nếu là tôi thì tôi sẽ, chỉ muốn tôi theo đuổi, bạn chạy tới đâu tôi theo tới đó, mọi người thân tôi không cấm cảng họ còn ủng hộ, thì chẳng có gì có thể cảng được tôi, 
