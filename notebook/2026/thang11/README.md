@@ -1,4 +1,25 @@
 # Tháng 11 Của Quẫy
+2511. 
+    oke có lẽ tôi quá yêu cô ta đến nổi cả trong mơ còn sợ đánh mất
+- tình hình là bày ra một đống suy nghĩ sai để mà nghĩ đến cái kịch bản của mình qua những cái mà những người quen nhau, dần biết hết mọi thứ về nhau á. tình hình cũng y chan, cô bé cũng chắc biết nhiều thứ về tôi rồi chán, nhưng mà em nói hong có phải, ovtk thôi, tôi thật sự hiểu cô ấy đọc ý nghĩ tôi như nào luôn, đỉnh đỉnh
+- chắc là tính tới chừ chưa baoh được yêu ai và ai đó yêu một cách đường hoàng
+- bayh con gần chạm đến cái móc là yêu lắm rồi đó, trời ơi nói thật là hãy để con yêu 1 người mãi mãi. con hong dám chắc là cái cảm giác con có sau đậm quá không, nhưng mà, con thực sự rất thương Như Ngọc
+- vấn đề team được giải quyết 1 phần lương cũng chắc là sẽ được đảm bảo, các dấu móc cuộc đời cũng dần diển ra, cái áp lực hiện chừ là cái thi cuôi môn, và build cv xin việc làm
+
+2411. 
+    những sự dằn xéo không đáng có
+- có lẽ bận rộn sẽ làm mình loại bỏ được mọi suy nghĩ đó
+- thứ mình muốn bayh là 1 công việc đường hoàng với ngành, có mức thù lao thu nhập
+- sắp tới thi xong tính thì trể, cái cv củ của mình chẳng có công dụng gì cho thời đại tiếng anh là vàng bayh. không hề muốn tạm bợ với cái rikkei edu lỏ này nữa
+- 
+
+2311. 
+    mình đang sống vì cảm xúc
+- mọi dấu hiện bất thường, mọi thay đổi nhỏ mình đều có thể thấy được. tin nhắn, cách nt nói chuyện, cách mà con người ta đưa cx mình lên cao chót vót luôn, và cách người ta họ hạ tông xuống trầm trầm, rồi tới chừ
+- do mình suy nghĩ thôi, hay là do mình bị vấn đề tâm lý gì, mình có bị chóa đâu, nhưng sao mà mình lo lắng vậy, mình lo lắng nó bất thành, mình gần lắm rồi, gần cái cảm giác được yêu lắm rồi
+- ông trời, tôi yêu cô gái này lắm, ông đừng có trêu đùa tôi kiểu như thế, tôi không muốn thành dáng vẽ của tôi lúc tôi không còn cô ấy nữa. thế giới có thể áp lực tôi bất kỳ điều gì, tôi hoàn toàn luôn nổ lực và cố gắng, tôi đã tốt hơn rất rất nhiều từ 1 tháng trở lại đây, có thể chẳng ai thấy nhưng thứ tôi làm được thì hoàn toàn có. tôi luôn cố gắng và có thể nhìn thấy mà
+- anh xin thời gian của em anh sẽ trả nó cho em bằng những điều xứng đáng
+
 2211. 
     Cảm nhân được sự phụ thuộc vào AI quá lớn, dẫn đến mình không còn là mình của ngày trước nữa
 - mình không có ai tâm sự, không có bất kỳ ai tâm sự về việc này
@@ -177,8 +198,3 @@ phụ em
 - Những ngày đi với Như Ngọc sẽ không theo timeline này, sẽ là những ngày linh hoạt vì đầu tư thời gian mà!
 ## note: 
 ### Học word - học canva - học excel
-
-## Lịch bé
-- thứ   2   4   5   6 
-- thứ 3 đi diển (đã diển xong)
-- t2 1h, t4 1h, t5 1h, t6 1h
