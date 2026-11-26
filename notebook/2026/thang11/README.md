@@ -1,11 +1,16 @@
 # Tháng 11 Của Quẫy
+2611. 
+    làm lanh rồi, mọi chuyện chỉ là tôi quá nghĩ nhiều
+- cái thứ thế giới chết tiệt tạo ra quá trình làm gì chứ, nối 2 điểm là sát rạt nhau 1 bước tới đích luôn đi là được, cứ thử thách rồi phải chinh phục, nó bị phiền
+- nhưng dù đường có dài, có xa tới máy tao vẫn đi, vấn phải bước mãi, vấn luôn để bản thân tiêu cực và tích cực hơn, vấn luôn cố gắng chạm tới vạch đích
+
 2511. 
     oke có lẽ tôi quá yêu cô ta đến nổi cả trong mơ còn sợ đánh mất
 - tình hình là bày ra một đống suy nghĩ sai để mà nghĩ đến cái kịch bản của mình qua những cái mà những người quen nhau, dần biết hết mọi thứ về nhau á. tình hình cũng y chan, cô bé cũng chắc biết nhiều thứ về tôi rồi chán, nhưng mà em nói hong có phải, ovtk thôi, tôi thật sự hiểu cô ấy đọc ý nghĩ tôi như nào luôn, đỉnh đỉnh
 - chắc là tính tới chừ chưa baoh được yêu ai và ai đó yêu một cách đường hoàng
 - bayh con gần chạm đến cái móc là yêu lắm rồi đó, trời ơi nói thật là hãy để con yêu 1 người mãi mãi. con hong dám chắc là cái cảm giác con có sau đậm quá không, nhưng mà, con thực sự rất thương Như Ngọc
 - vấn đề team được giải quyết 1 phần lương cũng chắc là sẽ được đảm bảo, các dấu móc cuộc đời cũng dần diển ra, cái áp lực hiện chừ là cái thi cuôi môn, và build cv xin việc làm
-
+- Và anh muốn xin khẳng định luôn một điều là, em cho anh thời gian, anh cho em tất cả những gì anh có thật xứng đáng
 2411. 
     những sự dằn xéo không đáng có
 - có lẽ bận rộn sẽ làm mình loại bỏ được mọi suy nghĩ đó
