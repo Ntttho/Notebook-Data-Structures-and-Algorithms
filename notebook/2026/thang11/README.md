@@ -1,4 +1,15 @@
 # Tháng 11 Của Quẫy
+2711. 
+    Tôi không thể giận cô ấy được
+- tôi giận lắm luôn, giận vì cô ấy không nói rõ ràng, giận vì tôi ở 1 không gian khác đã rời bỏ em, giận vì tôi là một đứa không hề đủ tốt
+- nhưng em đừng lo đó chỉ là mặt tối của tôi thôi
+    - tôi bắt đầu bắt nhịp được với cuộc sống của dân thành phố, họ có những thứ mà tôi còn thiếu
+    - tôi bắt đầu làm quen được với cái cách em nhìn nhận vấn đề và đưa ra cách giải quyết
+    - tôi bắt đầu làm mọi thứ chỉ vì được em yêu, Tôi yêu em!
+- tính chiếm hửu cao, khi mà con tim không còn nghe theo lí trí nữa, tư tưởng không thông gay stress, làm mạch máu tắt nghẽn, một số day thần kinh ngưng hoạt động, luồng suy nghĩ về một hướng mang tính chiếm hữu sẽ rất nhiều, lượng nơ ron tiêu tốn gay ức chế các luồng suy nghĩ điều khiển hoạt động khác, dẫn đến việc tôi chỉ cần gặp em ngay thời điểm đó
+- thực tế thì tôi muốn ngày nào cũng gặp luôn cơ, nhưng mà yêu là nhớ là trông, trông một hồi mình nhớ rồi lại mong mà, em cũng không thích gặp nhiều mau chán.
+- nhưng mọi vấn đề đều giải quyết bằng một cái cuộc nói chuyện rõ ràng 
+
 2611. 
     làm lanh rồi, mọi chuyện chỉ là tôi quá nghĩ nhiều
 - cái thứ thế giới chết tiệt tạo ra quá trình làm gì chứ, nối 2 điểm là sát rạt nhau 1 bước tới đích luôn đi là được, cứ thử thách rồi phải chinh phục, nó bị phiền
